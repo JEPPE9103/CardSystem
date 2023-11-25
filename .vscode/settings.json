@@ -1,0 +1,13 @@
+{
+    "makefile.launchConfigurations": [
+        {
+            "cwd": "c:\\Users\\jespe\\_Dev\\C\\Inlamningsuppgift",
+            "binaryPath": "c:\\Users\\jespe\\_Dev\\C\\Inlamningsuppgift\\main.exe",
+            "binaryArgs": []
+        }
+    ],
+    "files.associations": {
+        "stdlib.h": "c",
+        "safeinput.h": "c"
+    }
+}
